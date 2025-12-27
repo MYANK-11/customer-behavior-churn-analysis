@@ -34,7 +34,7 @@ Tools & Technologies:
 
 6.DAX
 
-
+7.Scikit - learn
 
 
 ## 📂 Dataset Overview
